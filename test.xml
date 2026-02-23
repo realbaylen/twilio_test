@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
     <Response>
-        <Say voice="Polly.Joanna-Generative">Hello, Kroger customer. Your recent purchase of... 2% Reduced Fat Milk Gallon... is having trouble processing. When the music beings, please enter your credit card number for verification...</Say>
+        <Say voice="Polly.Joanna-Generative">Hello, Kroger customur. Your recent perchuss of... 2% Reduced Fat Milk Gallon... is having trouble processing. When the music beings, please enter your credde it carduh number for verification...</Say>
         <Play>http://demo.twilio.com/docs/classic.mp3</Play>
     </Response>
 </xml>
